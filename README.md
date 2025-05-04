@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/shubham-0544s-projects/v0-game-improvement-ideas](https://v0-game-improvement-ideas.vercel.app/)**
+**[(https://v0-game-improvement-ideas.vercel.app/)](https://v0-game-improvement-ideas.vercel.app/)**
 
 ## Build your app
 
